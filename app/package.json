@@ -18,7 +18,7 @@
     "cookies-next": "^2.1.2",
     "dayjs": "^1.11.9",
     "eslint": "8.46.0",
-    "eslint-config-next": "13.4.12",
+    "eslint-config-next": "13.5.8",
     "immer": "^10.0.2",
     "jose": "^4.14.4",
     "jsonwebtoken": "^9.0.1",
